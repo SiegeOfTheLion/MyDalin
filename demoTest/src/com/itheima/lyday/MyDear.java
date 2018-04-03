@@ -7,6 +7,7 @@ package com.itheima.lyday;
 public class MyDear {
     public static void say(){
         System.out.println("I Love You lyday!!!");
+		System.out.println("Only You!!!");
     }
 }
   
