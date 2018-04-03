@@ -1,0 +1,4 @@
+*.classpath
+/demoTest/*.project
+/demoTest/.settings
+/demoTest/build
